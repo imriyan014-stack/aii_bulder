@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glowing AI ring -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,24A30,30 0 1,0 84,54A30,30 0 0,0 54,24ZM54,76A22,22 0 1,1 76,54A22,22 0 0,1 54,76Z" />
+    <!-- Central AI spark / voice core silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32 L59,46 L73,51 L59,56 L54,70 L49,56 L35,51 L49,46 Z" />
+    <!-- Orbiting action nodes -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M54,18A4,4 0 1,1 50,22A4,4 0 0,1 54,18ZM54,82A4,4 0 1,1 50,86A4,4 0 0,1 54,82ZM22,50A4,4 0 1,1 18,54A4,4 0 0,1 22,50ZM86,50A4,4 0 1,1 82,54A4,4 0 0,1 86,50Z" />
+</vector>

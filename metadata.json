@@ -1,0 +1,6 @@
+{
+  "name": "OmniAgent",
+  "description": "AI-powered mobile controller agent that executes voice and text commands across music, mail, settings, calls, alarms, and multi-app workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
